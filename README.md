@@ -1,0 +1,1 @@
+In this project, we will be doing Exploratory Data Analysis(EDA)for various datasets. Here will go through various techniques to clean, visualization,and describe data and use any one of the Machine Learning Algorithm from scikit-learn.
