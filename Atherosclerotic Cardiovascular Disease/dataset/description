@@ -1,0 +1,15 @@
+This 2018 calculator has been provided by the American Heart Association and the American College of Cardiology. The Risk Calculator enables health care providers and patients to estimate 10-year and lifetime risks for atherosclerotic cardiovascular disease (ASCVD), defined as coronary death or nonfatal myocardial infarction, or fatal or nonfatal stroke, based on the Pooled Cohort Equations and the work of Lloyd-Jones, et al., respectively. The information required to estimate ASCVD risk includes age, sex, race, total cholesterol, HDL cholesterol, systolic blood pressure, blood pressure lowering medication use, diabetes status, and smoking status.
+
+Gender:
+	0: Male
+	1: Female
+	
+For other
+	0 : No
+	1: Yes
+
+Target Classification :
+	0: Low Risk (<5%)
+	1: Borderline Risk (5% - 7.4%)
+	2: Intermediate Risk (≥7.5% - <20%) 
+	3: High Risk (≥20%)
